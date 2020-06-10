@@ -93,7 +93,7 @@ var y=2+3+"5"// ans 55
 
 // ---------logical
 
-&& || !
+//&& || !;
 
     // type operators
 // typeof -> type of variable
